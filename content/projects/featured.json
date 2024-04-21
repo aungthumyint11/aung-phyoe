@@ -1,0 +1,80 @@
+[
+	{
+		"project": "JobSpace.com.mm",
+		"url": "https://jobspace.com.mm",
+		"repo": "Private",
+		"descriptionTitle": "Job Application Portal",
+		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "mock-stack",	"hover": "right", 	"h": "500", "w": "446", "url": "/img/msc-mock_stack/jobspace.jpg" }
+				],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 				"type": "devicon" },
+			{ "key": "laravel",		"name": "Laravel", 			"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 			"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 			"type": "devicon" },
+			{ "key": "bootstrap",	"name": "Bootstrap 5", 		"type": "devicon" },
+			{ "key": "javascript", 	"name": "JavaScript", 		"type": "devicon" },
+			{ "key": "axios",		"name": "REST API", 		"type": "devicon" },
+			{ "key": "jquery", 		"name": "jQuery", 			"type": "devicon" },
+			{ "key": "react",		"name": "React JS", 		"type": "devicon" },
+			{ "key": "redux",		"name": "Redux", 			"type": "devicon" },
+			{ "key": "materialui",	"name": "MUI", 				"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 			"type": "devicon" },
+			{ "key": "sass",		"name": "SCSS", 			"type": "devicon" },
+			{ "key": "git",			"name": "GitLab", 			"type": "devicon" },
+			{ "key": "google",		"name": "Google Analytic", 	"type": "devicon" }
+
+		]
+	},
+	{
+		"project": "MOMO FINANCE",
+		"url": "",
+		"repo": "Private",
+		"descriptionTitle": "Microfinance Web System",
+		"description": "",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "right", "h": "400", "w": "556",  "url": "/img/msc-mock_stack/momofinance2.png" }
+		],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "laravel",		"name": "Laravel", 		"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "axios",		"name": "REST API", 	"type": "devicon" },
+			{ "key": "react",		"name": "React JS", 	"type": "devicon" },
+			{ "key": "redux",		"name": "Redux", 		"type": "devicon" },
+			{ "key": "materialui",	"name": "MUI", 			"type": "devicon" },
+			{ "key": "antdesign",	"name": "Ant Design", 	"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "git",			"name": "GitHub", 		"type": "devicon" }
+		]
+	},
+	{
+		"project": "OkkarThiri.com",
+		"url": "https://www.okkarthiri.com/",
+		"repo": "Private",
+		"descriptionTitle": "Web Portal",
+		"description": "",
+		"imageOptions": [
+		],
+		"images": [
+			{ "key": "portfolio", "hover": "right", "h": "400", "w": "556",  "url": "/img/msc-mock_stack/momofinance2.png" }
+		],
+		"stack": [
+			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
+			{ "key": "laravel",		"name": "Laravel", 		"type": "devicon" },
+			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
+			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "bootstrap",	"name": "Bootstrap 5", 	"type": "devicon" },
+			{ "key": "javascript",	"name": "JavaScript", 	"type": "devicon" },
+			{ "key": "ajax",		"name": "AJAX", 		"type": "devicon" },
+			{ "key": "jquery",		"name": "jQuery", 		"type": "devicon" },
+			{ "key": "git",			"name": "GitHub", 		"type": "devicon" }
+		]
+	}
+]

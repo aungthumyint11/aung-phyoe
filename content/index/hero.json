@@ -1,0 +1,32 @@
+{
+	"intro": {
+		"start": "$this->developer?->info = ",
+		"end": "Hello, my name is",
+		"speed": 30,
+		"deletionSpeed": 80,
+		"wrapper": "h2",
+		"startDelay": 1000,
+		"deleteDelay": 3000,
+		"restartDelay": 5000
+	},
+
+	"header": {
+		"name": "Aung Thu Myint",
+		"usp": "Web Application Developer"
+	},
+
+	"paragraph": "I'm a digital polymath, continuously adapting and expanding my skills in the ever-evolving digital landscape. Fueled by an insatiable curiosity and a commitment to lifelong learning, I'm passionate about crafting meaningful experiences and leaving a lasting impact through innovative digital creations.",
+
+	"buttons": {
+		"primary": {
+			"title": "Contact Me",
+			"url": "",
+			"leaveSite": false
+		},
+		"secondary": {
+			"title": "LinkedIn",
+			"url": "https://www.linkedin.com/in/aung-thu-myint/",
+			"leaveSite": "true"
+		}
+	}
+}
